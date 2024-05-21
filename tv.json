@@ -3,13 +3,14 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "视界流",
-            "name": "自制站点慎用",
+            "key": "new",
+            "name": "new new",
             "type": 1,
             "api": "http://sjl.rf.gd/api.php/provide/vod/",
+            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "changeable": 1
         },
         {
             "key": "阿里云4K",
