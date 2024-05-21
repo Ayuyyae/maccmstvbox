@@ -7,9 +7,9 @@
             "name": "自制站点慎用",
             "type": 1,
             "api": "http://sjl.rf.gd/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "阿里云4K",
