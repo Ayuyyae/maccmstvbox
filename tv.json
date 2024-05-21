@@ -6,7 +6,7 @@
             "key": "new",
             "name": "new new",
             "type": 1,
-            "api": "http://sjl.rf.gd/api.php/provide/vod/",
+            "api": "https://sjltv.000webhostapp.com/api.php/provide/vod",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
