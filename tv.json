@@ -3,8 +3,8 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "new",
-            "name": "new new",
+            "key": "老爸",
+            "name": "老爸专用",
             "type": 1,
             "api": "https://sjltv.000webhostapp.com/api.php/provide/vod",
             "playUrl": "",
