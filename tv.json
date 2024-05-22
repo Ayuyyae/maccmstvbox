@@ -6,7 +6,7 @@
             "key": "老爸",
             "name": "老爸专用",
             "type": 1,
-            "api": "https://sjltv.000webhostapp.com/api.php/provide/vod",
+            "api": "https://sjltv.000webhostapp.com/api.php/tvbox",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
