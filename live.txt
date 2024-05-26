@@ -373,3 +373,4 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 澳洲,#genre#
 七号台,https://i.mjh.nz/seven-syd.m3u8
+7two,https://i.mjh.nz/7two-syd.m3u8
