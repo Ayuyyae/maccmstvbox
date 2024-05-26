@@ -6,7 +6,7 @@
             "key": "今日下雨",
             "name": "🎐今日下雨",
             "type": 1,
-            "api": "https://sjltv.000webhostapp.com/api.php/tvbox",
+            "api": "https://sjltv.test.com/api.php/tvbox",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
