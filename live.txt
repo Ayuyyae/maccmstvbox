@@ -373,4 +373,15 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 澳洲,#genre#
 七号台,https://i.mjh.nz/seven-syd.m3u8
-7two,https://i.mjh.nz/7two-syd.m3u8
+七号台2,https://i.mjh.nz/7two-syd.m3u8
+七号台mate,https://i.mjh.nz/7mate-syd.m3u8
+七号台flix,https://i.mjh.nz/7flix-syd.m3u8
+九号台,https://i.mjh.nz/channel-9-nsw.m3u8
+九号台Gem,https://i.mjh.nz/gem-nsw.m3u8
+九号台Go,https://i.mjh.nz/go-nsw.m3u8
+ABC,https://c.mjh.nz/abc-nsw.m3u8
+新闻ABC,https://c.mjh.nz/abc-news.m3u8
+十号台,https://i.mjh.nz/10-nsw.m3u8
+十号台Bold,https://i.mjh.nz/10bold-nsw.m3u8
+十号台Peach,https://i.mjh.nz/10peach-nsw.m3u8
+SBS,https://i.mjh.nz/sbs.m3u8
