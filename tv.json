@@ -2,16 +2,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev/",
 "sites":[
-        {
-            "key": "海外看",
-            "name": "海外看",
-            "type": 1,
-            "api": "http://api.haiwaikan.com/v1/vod?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },    
+{"key":"海外看","name":"海外看","type":1,"api":"http://api.haiwaikan.com/v1/vod?ac=list","playUrl":"","searchable":1,"quickSearch":1,"changeable":1},    
 {"key":"豆豆","name":"🌕全接口智能过滤广告","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},
