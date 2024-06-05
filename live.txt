@@ -5,6 +5,7 @@ CCTV-1,http://frp-fly.top:27209/proxy/1964731068/1964731068.m3u8
 CCTV-2,http://frp-fly.top:27209/proxy/1486446687/1486446687.m3u8
 CCTV-3,http://frp-fly.top:27209/proxy/781829366/781829366.m3u8
 CCTV-4,http://frp-fly.top:27209/proxy/488588922/488588922.m3u8
+CCTV-5yeslive,https://cdn.hksec.eu.org/live/cctv5.m3u8
 CCTV-5ole,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5,http://frp-fly.top:27209/proxy/1233541493/1233541493.m3u8
 CCTV-5+,http://frp-fly.top:27209/proxy/1327890911/1327890911.m3u8
