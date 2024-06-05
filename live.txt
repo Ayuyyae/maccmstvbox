@@ -5,9 +5,8 @@ CCTV-1,http://frp-fly.top:27209/proxy/1964731068/1964731068.m3u8
 CCTV-2,http://frp-fly.top:27209/proxy/1486446687/1486446687.m3u8
 CCTV-3,http://frp-fly.top:27209/proxy/781829366/781829366.m3u8
 CCTV-4,http://frp-fly.top:27209/proxy/488588922/488588922.m3u8
-CCTV-5ole(720p),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV-5ole,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5,http://frp-fly.top:27209/proxy/1233541493/1233541493.m3u8
-CCTV-5+yeslive,https://cdn.hksec.eu.org/live/cctv5plus.m3u8
 CCTV-5+,http://frp-fly.top:27209/proxy/1327890911/1327890911.m3u8
 CCTV-6,http://frp-fly.top:27209/proxy/1275265590/1275265590.m3u8
 1905-电影网,http://frp-fly.top:27209/proxy/1747360543/1747360543.m3u8
