@@ -21,6 +21,7 @@ CCTV-12,http://frp-fly.top:27209/proxy/479563435/479563435.m3u8
 CCTV-13,http://frp-fly.top:27209/proxy/1100148851/1100148851.m3u8
 CCTV-14,http://frp-fly.top:27209/proxy/329783189/329783189.m3u8
 CCTV-15,http://frp-fly.top:27209/proxy/518544399/518544399.m3u8
+CCTV-16ole,https://node1.olelive.com:6443/live/CCTV16HD.live.flv
 CCTV-16,http://frp-fly.top:27209/proxy/1213181202/1213181202.m3u8
 CCTV-17,http://frp-fly.top:27209/proxy/642661480/642661480.m3u8
 咪咕体育,http://frp-fly.top:27209/proxy/1168525477/1168525477.m3u8
