@@ -3,7 +3,7 @@
     "wallpaper":"https://深色壁纸.饭.eu.org/",
     "sites":[
     {"key":"海外看","name":"海外看","type":1,"api":"http://api.haiwaikan.com/v1/vod?ac=list","playUrl":"","searchable":1,"quickSearch":1,"changeable":1}, 
-    {"key":"pp","name":"pp","type":1,"api":"https://api-drive.mypikpak.com/drive/v1/files/","playUrl":"","searchable":1,"quickSearch":1,"changeable":1}, 
+    {"key":"pp","name":"pp","type":1,"api":"https://mypikpak.com/s/VNzx3l6eSlBuIQxdHj5o4CmUo1","playUrl":"","searchable":1,"quickSearch":1,"changeable":1}, 
     {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
