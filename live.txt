@@ -1,6 +1,6 @@
 
 CCTV-Live,#genre#
-CCTV-1,CCTV1,http://119.62.36.174:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,http://119.62.36.174:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,http://frp-fly.top:27209/proxy/1486446687/1486446687.m3u8
 CCTV-3,http://frp-fly.top:27209/proxy/781829366/781829366.m3u8
 CCTV-4,http://frp-fly.top:27209/proxy/488588922/488588922.m3u8
