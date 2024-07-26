@@ -1,7 +1,6 @@
 
 CCTV-Live,#genre#
-#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
-http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
+CCTV-1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV-4k,http://frp-fly.top:27209/proxy/968404657/968404657.m3u8
 CCTV-1,http://frp-fly.top:27209/proxy/1964731068/1964731068.m3u8
 CCTV-2,http://frp-fly.top:27209/proxy/1486446687/1486446687.m3u8
