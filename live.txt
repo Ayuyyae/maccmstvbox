@@ -1,13 +1,13 @@
 
 CCTV-直播,#genre#
-CCTV-1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://frp-fly.top:27209/proxy/1486446687/1486446687.m3u8
-CCTV-3,http://frp-fly.top:27209/proxy/781829366/781829366.m3u8
-CCTV-4,http://frp-fly.top:27209/proxy/488588922/488588922.m3u8
-CCTV-5ole,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-5,http://frp-fly.top:27209/proxy/1233541493/1233541493.m3u8
-CCTV-5+ole,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV-5+,http://frp-fly.top:27209/proxy/1327890911/1327890911.m3u8
+#EXTINF:-1,Unknown_1
+http://www.zzlag.top:9087/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1,Unknown_3
+http://119.62.36.174:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,Unknown_4
+http://58.51.111.46:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,Unknown_5
+http://58.57.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-6,http://frp-fly.top:27209/proxy/1275265590/1275265590.m3u8
 1905-电影网,http://frp-fly.top:27209/proxy/1747360543/1747360543.m3u8
 CCTV-7,http://frp-fly.top:27209/proxy/220822188/220822188.m3u8
