@@ -19,6 +19,7 @@ CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodTok
 CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=3372eeac7f52075d36d0edd66eab703b95c8eb3ddf8502186f235a1d890717d9_1720508080_604800&fromCDN=ws
 CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=fabd3816e5335ddba8d1d88c9536a13c2675337479957dee07e669564a88f4e7_1720504638_604800&fromCDN=ws
 CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=fabd3816e5335ddba8d1d88c9536a13c2675337479957dee07e669564a88f4e7_1720504638_604800&fromCDN=ws
+CCTV13,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=7ff060443836507a41a5214026042c9626a11fbff401291700ce35d59c3e6293_1720504703_604800&fromCDN=ws
 CCTV16,https://stream1.freetv.fun/87de3fae6db73a08904421488de7b0ba39e5eccf12a85ec47f8ccfb0985d2fa7.m3u8
 CCTV16,https://stream1.freetv.fun/3fa27f5bf8136b49f28d477a805f1219c588cf21ffbada685497c73431d20c6e.m3u8
 
@@ -41,7 +42,7 @@ CCTV13-11,http://218.241.192.50:8808/rtp/239.3.1.124:8128
 CCTV13-12,http://120.234.5.29:6000/udp/239.21.0.88:3692
 CCTV13-13,http://alvin.ergotron.net:8000/udp/239.77.0.188:5146
 CCTV13-14,http://123.189.36.4:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=7ff060443836507a41a5214026042c9626a11fbff401291700ce35d59c3e6293_1720504703_604800&fromCDN=ws
+
 CCTV13-16,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv
 CCTV13-17,http://61.136.67.238:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-18,http://110.80.17.38:9901/tsfile/live/0013_1.m3u8?key=txiptv
