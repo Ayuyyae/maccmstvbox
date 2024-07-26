@@ -1,10 +1,4 @@
-央视CCTV4K,#genre#
-CCTV4K-1,https://stream1.freetv.fun/0770bb3bc84ed4e330f1583e33152a2e4760aa48a1bf8cb1589c76bd0bd400f9.m3u8
-CCTV4K-2,https://stream1.freetv.fun/644644b9d904dc12d7334b92834fd65ccbf01fdb67011653831633e7323cf571.ctv
-CCTV4K-3,https://stream1.freetv.fun/40615d05a2b26dbd0811a780204d796f44022abb0f27c6d2826ce831dff6b662.m3u8
-CCTV4K-4,https://stream1.freetv.fun/3171fa435d942f1b7fa6ec05780f8def6705a20b23dc5bd6a43be7f63f6dd781.m3u8
 央视CCTV1不同源,#genre#
-CCTV1-1,https://stream1.freetv.fun/7e61377fcb5ce33b24bf79088266ef4cb7f20dba91fee30faac2d6d92a28d468.m3u8
 CCTV1-2,https://stream1.freetv.fun/2ad5af5d9a8d7243c8d9c7422ee6cf76bad9ac2c1e157bc9f199423fb5ed4845.m3u8
 CCTV1-3,https://stream1.freetv.fun/f8b77654ee5202e90044771d42c97306dee3fac5acd35b60e23652873790de01.m3u8
 CCTV1-4,https://stream1.freetv.fun/8973ff67af3f7c2d22cdf2a379e20b1bc812e963bfb3fd4bccf5a85c4953d022.m3u8
@@ -23,8 +17,6 @@ CCTV1-16,https://stream1.freetv.fun/ee6bfbbf6bd7448cd334ce598474b15c4179f9cf07a6
 CCTV1-17,https://stream1.freetv.fun/ed56f455ae3fdab6f18723bceb3da6c3ee2e7ad0914baa05f5a533c02f6f303d.m3u8
 CCTV1-18,https://stream1.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.ctv
 CCTV1-19,https://stream1.freetv.fun/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.m3u8
-
-
 
 央视CCTV1,#genre#
 CCTV1-3,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
