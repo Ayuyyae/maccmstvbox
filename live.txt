@@ -527,7 +527,9 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 登封新闻综合频道,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 石阡新闻,http://111.123.209.13:9000/hls/main/playlist.m3u8
 确山新闻综合频道,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-福建|三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+福建综合,http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv
 福州广播电视台新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
 福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
